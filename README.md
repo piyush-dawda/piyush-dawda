@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AWS, JavaScript, TypeScript, NodeJS, ReactJs, MySQL, ...
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: piyushdawda99@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to participate in the spontaneous road trips, coz it led to unexpected adventures, meeting fascinating people, and discovering hidden gems along the way. It taught me the beauty of embracing the unplanned and enjoying the journey as much as the destination. 🚗✨
-
+-->
